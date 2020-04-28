@@ -1,5 +1,4 @@
 
-from epyk_x_js_datepicker import html
 
 from epyk.core.js import Imports
 
