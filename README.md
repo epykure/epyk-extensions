@@ -11,7 +11,10 @@ The naming convention for epyk extensions is epyk_x_%packageName%
 
 Each package name is saved in this repository as a folder.
 
-For example js_datepicker
+Some examples are available (they are already part of the core framework):
+
+- js_datepicker
+- json
 
 
 ## Architecture
