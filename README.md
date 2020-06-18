@@ -65,7 +65,7 @@ It is also possible to add more complex components interacting different with Ja
 The below will add a specific behaviour on the dom object.
 
 <div align="center">
-    <img width=600 src="https://github.com/epykure/epyk-extensions/blob/master/static/images/dom_link.PNG?raw=true">
+    <img width=500 src="https://github.com/epykure/epyk-extensions/blob/master/static/images/dom_link.PNG?raw=true">
 </div>
 
 The below will add a specific behaviour on the JS part.
