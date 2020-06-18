@@ -70,3 +70,13 @@ The below will add a specific behaviour on the JS part.
 <div align="center">
     <img width=600 src="https://github.com/epykure/epyk-extensions/blob/master/static/images/js_link.PNG?raw=true">
 </div>
+
+
+### Community
+
+The target of this repository is more a lab with the various components implemented.
+This will also keep track of the changes and the various extension which should be added to the core framework.
+
+Feel free to propose changes and create pull requests.
+
+Bugs in the framework should be directly raised on the main repository.
