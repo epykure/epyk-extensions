@@ -13,4 +13,16 @@ Each package name is saved in this repository as a folder.
 
 For example js_datepicker
 
+## Architecture
 
+<div align="center" >
+    <img width=600 src="https://github.com/epykure/epyk-extensions/blob/master/static/images/extension.PNG?raw=true">
+</div>
+
+## Usage
+
+### Basic use of components
+
+<div align="center" >
+    <img width=600 src="https://github.com/epykure/epyk-extensions/blob/master/static/images/basic_component.PNG?raw=true">
+</div>
