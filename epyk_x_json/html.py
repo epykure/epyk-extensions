@@ -4,6 +4,7 @@ from epyk.core.html import Html
 
 class HtmlPrettyJson(Html.Html):
   __reqCss, __reqJs = ['json-pretty-formatter'], ['json-pretty-formatter']
+  name = 'Pretty Json'
 
   def __init__(self, report, data, width, height, options, profile):
     super(HtmlPrettyJson, self).__init__(report, data, profile=profile, css_attrs={"height": height, width: "width"})

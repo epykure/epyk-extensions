@@ -10,6 +10,7 @@ from epyk_x_js_datepicker import html_dom
 
 class DatePicker(Html.Html):
   __reqCss, __reqJs = ['js-datepicker'], ['js-datepicker']
+  name = 'Datepicker'
 
   def __init__(self, report, data, width, height, options, profile):
     super(DatePicker, self).__init__(report, data, profile=profile, css_attrs={"height": height, width: "width"})
