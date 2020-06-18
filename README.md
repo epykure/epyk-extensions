@@ -1,7 +1,7 @@
 
-![](https://raw.githubusercontent.com/epykure/epyk-extensions/master/static/images/logo.ico)
+![](https://raw.githubusercontent.com/epykure/epyk-ui/master/epyk/static/images/epyklogo_whole_big.png)
 
-### Create an extension for Epyk
+# Create an extension for Epyk
 
 
 As Epyk is a collaborative project, it is possible to create your own extensions based on your favorite Javascript modules.
